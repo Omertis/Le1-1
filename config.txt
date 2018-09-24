@@ -1,6 +1,5 @@
-token=NDg4NDAwMzk0ODQyODAwMTI5.DnbrKw.V3__flLlkHqtnHohYHEQzFKM5wA
-owner=331081268731052042 
-prefix=!
-game=Baktash-bot
+token=NDkzNzU0OTI1NTc5MjM5NDI3.DoptRQ.tOjjXzO3L_0ILjW8yWwgGeFvisg
+owner=466858375544832001 
+prefix=hu
+game=huplay
 stayinchannel=true
-songinstatus=true
